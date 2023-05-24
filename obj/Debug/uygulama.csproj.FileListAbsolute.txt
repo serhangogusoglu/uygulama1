@@ -1,0 +1,12 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.Form1.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.Form2.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\uygulama\uygulama\obj\Debug\uygulama.Form3.resources
